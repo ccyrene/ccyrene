@@ -19,12 +19,21 @@ Deep Learning:
 
 Backend:
 
-<code><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=grpc"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=actix"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=fiber"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=echo"/></code>
 
+Database:
+
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql"/></code>
+
+Cloud & Deployment:
+
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=aws"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp"/></code>
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
