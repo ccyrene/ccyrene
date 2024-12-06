@@ -56,6 +56,7 @@ Other tools:
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=postman"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=kafka"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=grafana"/></code>
 
 ## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rungrodkspeed&hide_progress=true&theme=gradient)
