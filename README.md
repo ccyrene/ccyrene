@@ -25,6 +25,7 @@ Database:
 
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=redis"/></code>
 
 ETL tools:
 
