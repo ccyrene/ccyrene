@@ -60,6 +60,4 @@ Other tools:
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=kafka"/></code>
 
 ## Github Stats
-[![All Stats](https://github-readme-stats.vercel.app/api?username=rungrodkspeed&show_icons=true&theme=algolia)](https://github.com/rungrodkspeed)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rungrodkspeed)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rungrodkspeed&hide_progress=true)
