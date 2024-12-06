@@ -10,7 +10,7 @@ Language:
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=bash"/></code>
 
-Deep Learning:
+Deep Learning frameworks:
 
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface"/></code>
@@ -30,13 +30,30 @@ Database:
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql"/></code>
 
+ETL tools:
+
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=spark"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=airflow"/></code>
+
+Container Technologies:
+
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=docker"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes"/></code>
+
 Cloud & Deployment:
 
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=aws"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp"/></code>
 
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,rust,golang,cpp,cuda,pytorch,huggingface,tensorflow,scikitlearn,aws,gcp,git,docker,kubernetes,mongodb,postgresql,grpc,actix,fastapi,fiber,echo,opencv,regex,spark,linux,ubuntu,postman"/>
-  </a>
-</p>
+Version Control:
+
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=git"/></code>
+
+Other tools:
+
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=cuda"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=opencv"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=linux"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=postman"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=kafka"/></code>
