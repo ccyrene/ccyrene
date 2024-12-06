@@ -62,4 +62,4 @@ Other tools:
 ## Github Stats
 [![All Stats](https://github-readme-stats.vercel.app/api?username=rungrodkspeed&show_icons=true&theme=algolia)](https://github.com/rungrodkspeed)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rungrodkspeed)](https://github.com/rungrodkspeed/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rungrodkspeed)](https://github.com/anuraghazra/github-readme-stats)
