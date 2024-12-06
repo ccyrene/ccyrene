@@ -23,7 +23,6 @@ Backend:
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=actix"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi"/></code>
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=fiber"/></code>
-<code><img src="https://go-skill-icons.vercel.app/api/icons?i=echo"/></code>
 
 Database:
 
@@ -34,7 +33,6 @@ Database:
 ETL tools:
 
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=spark"/></code>
-<code><img src="https://go-skill-icons.vercel.app/api/icons?i=airflow"/></code>
 
 Container Technologies:
 
