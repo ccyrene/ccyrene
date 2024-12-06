@@ -60,4 +60,4 @@ Other tools:
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=kafka"/></code>
 
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rungrodkspeed&hide_progress=true&theme=Gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rungrodkspeed&hide_progress=true&theme=gradient)
