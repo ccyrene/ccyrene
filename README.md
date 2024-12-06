@@ -7,7 +7,6 @@ Language:
 <code><img src="https://go-skill-icons.vercel.app/api/icons?i=python,rust,golang,cpp,bash"/></code>
 
 Deep Learning frameworks:
-
 <code><img height=50 width=50 src="https://go-skill-icons.vercel.app/api/icons?i=pytorch"/></code>
 <code><img height=50 width=50 src="https://go-skill-icons.vercel.app/api/icons?i=huggingface"/></code>
 <code><img height=50 width=50 src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow"/></code>
