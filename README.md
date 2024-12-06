@@ -4,11 +4,7 @@
 
 Language:
 
-<code><img src="https://go-skill-icons.vercel.app/api/icons?i=python"/></code>
-<code><img src="https://go-skill-icons.vercel.app/api/icons?i=rust"/></code>
-<code><img src="https://go-skill-icons.vercel.app/api/icons?i=golang"/></code>
-<code><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp"/></code>
-<code><img src="https://go-skill-icons.vercel.app/api/icons?i=bash"/></code>
+<code><img src="https://go-skill-icons.vercel.app/api/icons?i=python,rust,golang,cpp,bash"/></code>
 
 Deep Learning frameworks:
 
